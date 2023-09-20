@@ -1,0 +1,1324 @@
+{
+    "buildings": {
+        "SPD": {
+            "current_level": 5,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 60
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 100
+                },
+                "3": {
+                    "increase": 2.5,
+                    "cost": 140
+                },
+                "4": {
+                    "increase": 3,
+                    "cost": 180
+                },
+                "5": {
+                    "increase": 4,
+                    "cost": 220
+                },
+                "6": {
+                    "increase": 5,
+                    "cost": 260
+                },
+                "7": {
+                    "increase": 5.5,
+                    "cost": 300
+                },
+                "8": {
+                    "increase": 6,
+                    "cost": 340
+                },
+                "9": {
+                    "increase": 7,
+                    "cost": 380
+                },
+                "10": {
+                    "increase": 8,
+                    "cost": 420
+                },
+                "11": {
+                    "increase": 8.5,
+                    "cost": 460
+                },
+                "12": {
+                    "increase": 9,
+                    "cost": 500
+                },
+                "13": {
+                    "increase": 10,
+                    "cost": 540
+                },
+                "14": {
+                    "increase": 11,
+                    "cost": 580
+                },
+                "15": {
+                    "increase": 11.5,
+                    "cost": 620
+                },
+                "16": {
+                    "increase": 12,
+                    "cost": 660
+                },
+                "17": {
+                    "increase": 13,
+                    "cost": 700
+                },
+                "18": {
+                    "increase": 14,
+                    "cost": 740
+                },
+                "19": {
+                    "increase": 14.5,
+                    "cost": 780
+                },
+                "20": {
+                    "increase": 15,
+                    "cost": 820
+                }
+            }
+        },
+        "CDMG":  {
+            "current_level": 7,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 35
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 60
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 85
+                },
+                "4": {
+                    "increase": 5,
+                    "cost": 110
+                },
+                "5": {
+                    "increase": 6,
+                    "cost": 135
+                },
+                "6": {
+                    "increase": 7,
+                    "cost": 160
+                },
+                "7": {
+                    "increase": 9,
+                    "cost": 185
+                },
+                "8": {
+                    "increase": 10,
+                    "cost": 210
+                },
+                "9": {
+                    "increase": 11,
+                    "cost": 235
+                },
+                "10": {
+                    "increase": 12,
+                    "cost": 260
+                },
+                "11": {
+                    "increase": 13,
+                    "cost": 285
+                },
+                "12": {
+                    "increase": 15,
+                    "cost": 310
+                },
+                "13": {
+                    "increase": 16,
+                    "cost": 335
+                },
+                "14": {
+                    "increase": 18,
+                    "cost": 360
+                },
+                "15": {
+                    "increase": 19,
+                    "cost": 385
+                },
+                "16": {
+                    "increase": 20,
+                    "cost": 410
+                },
+                "17": {
+                    "increase": 22,
+                    "cost": 435
+                },
+                "18": {
+                    "increase": 23,
+                    "cost": 460
+                },
+                "19": {
+                    "increase": 24,
+                    "cost": 485
+                },
+                "20": {
+                    "increase": 25,
+                    "cost": 520
+                }
+            }
+        },
+        "ATK": {
+            "current_level": 5,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 90
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 135
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 180
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 225
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 270
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 315
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 360
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 405
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 450
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 495
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 540
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 585
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 630
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 675
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 720
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 765
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 810
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 855
+                },
+                "20": {
+                    "increase": 20,
+                    "cost": 900
+                }
+            }
+        },
+        "DEF": {
+            "current_level": 7,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 25
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 60
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 90
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 130
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 165
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 200
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 235
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 270
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 305
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 340
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 375
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 410
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 445
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 480
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 515
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 550
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 585
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 620
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 655
+                },
+                "20": {
+                    "increase": 20,
+                    "cost": 690
+                }
+            }
+        },
+        "HP": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 80
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 120
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 160
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 200
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 240
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 280
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 320
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 360
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 400
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 440
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 480
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 520
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 560
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 600
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 640
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 680
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 720
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 760
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 800
+                },
+                "20": {
+                    "increase": 20,
+                    "cost": 840
+                }
+            }
+        },
+        "WATER_ATK": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 70
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 95
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 120
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 145
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 170
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 195
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 220
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 245
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 270
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 295
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 320
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 345
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 370
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 395
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 420
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 445
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 470
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 495
+                },
+                "20": {
+                    "increase": 21,
+                    "cost": 520
+                }
+            }
+        },
+        "FIRE_ATK": {
+            "current_level": 5,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 70
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 95
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 120
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 145
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 170
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 195
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 220
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 245
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 270
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 295
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 320
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 345
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 370
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 395
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 420
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 445
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 470
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 495
+                },
+                "20": {
+                    "increase": 21,
+                    "cost": 520
+                }
+            }
+        },
+        "WIND_ATK": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 70
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 95
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 120
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 145
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 170
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 195
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 220
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 245
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 270
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 295
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 320
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 345
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 370
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 395
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 420
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 445
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 470
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 495
+                },
+                "20": {
+                    "increase": 21,
+                    "cost": 520
+                }
+            }
+        },
+        "LIGHT_ATK": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 70
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 95
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 120
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 145
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 170
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 195
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 220
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 245
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 270
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 295
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 320
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 345
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 370
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 395
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 420
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 445
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 470
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 495
+                },
+                "20": {
+                    "increase": 21,
+                    "cost": 520
+                }
+            }
+        },
+        "DARK_ATK": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 45
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 70
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 95
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 120
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 145
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 170
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 195
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 220
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 245
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 270
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 295
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 320
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 345
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 370
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 395
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 420
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 445
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 470
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 495
+                },
+                "20": {
+                    "increase": 21,
+                    "cost": 520
+                }
+            }
+        },
+        "TOWER_ATK": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 0.5,
+                    "cost": 30
+                },
+                "2": {
+                    "increase": 1,
+                    "cost": 40
+                },
+                "3": {
+                    "increase": 1.5,
+                    "cost": 50
+                },
+                "4": {
+                    "increase": 2,
+                    "cost": 60
+                },
+                "5": {
+                    "increase": 2.5,
+                    "cost": 70
+                },
+                "6": {
+                    "increase": 3,
+                    "cost": 80
+                },
+                "7": {
+                    "increase": 3.5,
+                    "cost": 90
+                },
+                "8": {
+                    "increase": 4,
+                    "cost": 100
+                },
+                "9": {
+                    "increase": 4.5,
+                    "cost": 110
+                },
+                "10": {
+                    "increase": 5,
+                    "cost": 120
+                },
+                "11": {
+                    "increase": 5.5,
+                    "cost": 130
+                },
+                "12": {
+                    "increase": 6,
+                    "cost": 140
+                },
+                "13": {
+                    "increase": 6.5,
+                    "cost": 150
+                },
+                "14": {
+                    "increase": 7,
+                    "cost": 160
+                },
+                "15": {
+                    "increase": 7.5,
+                    "cost": 170
+                },
+                "16": {
+                    "increase": 8,
+                    "cost": 180
+                },
+                "17": {
+                    "increase": 8.5,
+                    "cost": 190
+                },
+                "18": {
+                    "increase": 9,
+                    "cost": 200
+                },
+                "19": {
+                    "increase": 9.5,
+                    "cost": 210
+                },
+                "20": {
+                    "increase": 10,
+                    "cost": 220
+                }
+            }
+        },
+        "TOWER_SPD": {
+            "current_level": 0,
+            "upgrade": {
+                "1": {
+                    "increase": 2,
+                    "cost": 80
+                },
+                "2": {
+                    "increase": 4,
+                    "cost": 130
+                },
+                "3": {
+                    "increase": 6,
+                    "cost": 180
+                },
+                "4": {
+                    "increase": 8,
+                    "cost": 230
+                },
+                "5": {
+                    "increase": 10,
+                    "cost": 280
+                },
+                "6": {
+                    "increase": 12,
+                    "cost": 330
+                },
+                "7": {
+                    "increase": 14,
+                    "cost": 380
+                },
+                "8": {
+                    "increase": 16,
+                    "cost": 430
+                },
+                "9": {
+                    "increase": 18,
+                    "cost": 480
+                },
+                "10": {
+                    "increase": 20,
+                    "cost": 530
+                }
+            }
+        },
+        "MANA_SPD": {
+            "current_level": 11,
+            "upgrade": {
+                "1": {
+                    "increase": 2,
+                    "cost": 10
+                },
+                "2": {
+                    "increase": 4,
+                    "cost": 20
+                },
+                "3": {
+                    "increase": 6,
+                    "cost": 30
+                },
+                "4": {
+                    "increase": 8,
+                    "cost": 40
+                },
+                "5": {
+                    "increase": 10,
+                    "cost": 50
+                },
+                "6": {
+                    "increase": 12,
+                    "cost": 60
+                },
+                "7": {
+                    "increase": 14,
+                    "cost": 70
+                },
+                "8": {
+                    "increase": 16,
+                    "cost": 80
+                },
+                "9": {
+                    "increase": 18,
+                    "cost": 90
+                },
+                "10": {
+                    "increase": 20,
+                    "cost": 100
+                },
+                "11": {
+                    "increase": 21,
+                    "cost": 110
+                },
+                "12": {
+                    "increase": 22,
+                    "cost": 120
+                },
+                "13": {
+                    "increase": 23,
+                    "cost": 130
+                },
+                "14": {
+                    "increase": 24,
+                    "cost": 140
+                },
+                "15": {
+                    "increase": 25,
+                    "cost": 150
+                },
+                "16": {
+                    "increase": 26,
+                    "cost": 160
+                },
+                "17": {
+                    "increase": 27,
+                    "cost": 170
+                },
+                "18": {
+                    "increase": 28,
+                    "cost": 180
+                },
+                "19": {
+                    "increase": 29,
+                    "cost": 190
+                },
+                "20": {
+                    "increase": 30,
+                    "cost": 200
+                }
+            }
+        },
+        "MANA": {
+            "current_level": 20,
+            "upgrade": {
+                "1": {
+                    "increase": 100,
+                    "cost": 10
+                },
+                "2": {
+                    "increase": 100,
+                    "cost": 20
+                },
+                "3": {
+                    "increase": 100,
+                    "cost": 30
+                },
+                "4": {
+                    "increase": 100,
+                    "cost": 40
+                },
+                "5": {
+                    "increase": 100,
+                    "cost": 50
+                },
+                "6": {
+                    "increase": 100,
+                    "cost": 60
+                },
+                "7": {
+                    "increase": 100,
+                    "cost": 70
+                },
+                "8": {
+                    "increase": 100,
+                    "cost": 80
+                },
+                "9": {
+                    "increase": 100,
+                    "cost": 90
+                },
+                "10": {
+                    "increase": 100,
+                    "cost": 100
+                },
+                "11": {
+                    "increase": 100,
+                    "cost": 110
+                },
+                "12": {
+                    "increase": 100,
+                    "cost": 120
+                },
+                "13": {
+                    "increase": 100,
+                    "cost": 130
+                },
+                "14": {
+                    "increase": 100,
+                    "cost": 140
+                },
+                "15": {
+                    "increase": 100,
+                    "cost": 150
+                },
+                "16": {
+                    "increase": 100,
+                    "cost": 160
+                },
+                "17": {
+                    "increase": 100,
+                    "cost": 170
+                },
+                "18": {
+                    "increase": 100,
+                    "cost": 180
+                },
+                "19": {
+                    "increase": 100,
+                    "cost": 190
+                },
+                "20": {
+                    "increase": 100,
+                    "cost": 200
+                }
+            }
+        },
+        "ENERGY": {
+            "current_level": 20,
+            "upgrade": {
+                "1": {
+                    "increase": 1,
+                    "cost": 55
+                },
+                "2": {
+                    "increase": 2,
+                    "cost": 60
+                },
+                "3": {
+                    "increase": 3,
+                    "cost": 65
+                },
+                "4": {
+                    "increase": 4,
+                    "cost": 70
+                },
+                "5": {
+                    "increase": 5,
+                    "cost": 75
+                },
+                "6": {
+                    "increase": 6,
+                    "cost": 80
+                },
+                "7": {
+                    "increase": 7,
+                    "cost": 85
+                },
+                "8": {
+                    "increase": 8,
+                    "cost": 90
+                },
+                "9": {
+                    "increase": 9,
+                    "cost": 95
+                },
+                "10": {
+                    "increase": 10,
+                    "cost": 100
+                },
+                "11": {
+                    "increase": 11,
+                    "cost": 105
+                },
+                "12": {
+                    "increase": 12,
+                    "cost": 110
+                },
+                "13": {
+                    "increase": 13,
+                    "cost": 115
+                },
+                "14": {
+                    "increase": 14,
+                    "cost": 120
+                },
+                "15": {
+                    "increase": 15,
+                    "cost": 125
+                },
+                "16": {
+                    "increase": 16,
+                    "cost": 130
+                },
+                "17": {
+                    "increase": 17,
+                    "cost": 135
+                },
+                "18": {
+                    "increase": 18,
+                    "cost": 140
+                },
+                "19": {
+                    "increase": 19,
+                    "cost": 145
+                },
+                "20": {
+                    "increase": 20,
+                    "cost": 150
+                }
+            }
+        },
+        "ENERGY_SPD": {
+            "current_level": 20,
+            "upgrade": {
+                "1": {
+                    "increase": 2,
+                    "cost": 15
+                },
+                "2": {
+                    "increase": 3,
+                    "cost": 20
+                },
+                "3": {
+                    "increase": 4,
+                    "cost": 25
+                },
+                "4": {
+                    "increase": 6,
+                    "cost": 30
+                },
+                "5": {
+                    "increase": 7,
+                    "cost": 35
+                },
+                "6": {
+                    "increase": 9,
+                    "cost": 40
+                },
+                "7": {
+                    "increase": 10,
+                    "cost": 45
+                },
+                "8": {
+                    "increase": 12,
+                    "cost": 50
+                },
+                "9": {
+                    "increase": 13,
+                    "cost": 55
+                },
+                "10": {
+                    "increase": 15,
+                    "cost": 60
+                },
+                "11": {
+                    "increase": 16,
+                    "cost": 70
+                },
+                "12": {
+                    "increase": 18,
+                    "cost": 80
+                },
+                "13": {
+                    "increase": 19,
+                    "cost": 90
+                },
+                "14": {
+                    "increase": 21,
+                    "cost": 100
+                },
+                "15": {
+                    "increase": 22,
+                    "cost": 110
+                },
+                "16": {
+                    "increase": 24,
+                    "cost": 120
+                },
+                "17": {
+                    "increase": 25,
+                    "cost": 130
+                },
+                "18": {
+                    "increase": 27,
+                    "cost": 140
+                },
+                "19": {
+                    "increase": 28,
+                    "cost": 150
+                },
+                "20": {
+                    "increase": 30,
+                    "cost": 160
+                }
+            }
+        }
+    }
+}
